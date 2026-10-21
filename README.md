@@ -12,6 +12,20 @@ An end-to-end data analytics project examining **3,900 customer transactions** t
 3. **Dashboard Development:** Connected Power BI to PostgreSQL to explore customer behavior and visualize key findings.
 4. **Business Reporting:** Synthesized analytical findings into a visual PowerPoint report with business recommendations.
 
+## Repository Structure
+
+```text
+customer_behavior_analysis/
+├── image_files/      # Dashboard screenshots and presentation visuals
+├── project_files/    # Python, SQL, and Power BI project files
+├── reports/          # Technical and business insights reports
+└── README.md         # Project overview and documentation links
+```
+
+### Documentation
+- [Technical Report](reports/technical_report.md): Data preparation, feature engineering, and SQL analysis.
+- [Raw Insights Report](reports/raw_insights_report.md): Business findings and recommendations.
+
 ## Key Findings
 - **Unexpected subscription gap:** Dashboard exploration revealed that no female customers in the dataset were subscribed. The finding was subsequently verified using SQL, highlighting an opportunity to investigate potential barriers to subscription.
 - **Revenue disparity:** Male customers generated $157,890 in revenue, compared with $75,191 from female customers.
@@ -25,6 +39,6 @@ Investigate the subscription gap, reassess subscription benefits, strengthen cus
 
 ## Deliverables
 - Python data cleaning and feature engineering
-- SQL queries answering 10 business questions
+- PostgreSQL queries answering 10 business questions
 - Power BI dashboard
 - Visual PowerPoint insights report
