@@ -18,7 +18,7 @@ An end-to-end data analytics project examining **3,900 customer transactions** t
 - **Subscription performance:** Subscribers averaged $59.49 per purchase, compared with $59.87 for non-subscribers, raising questions about the subscription program's value proposition.
 - **Customer loyalty:** Approximately 80% of customers were classified as loyal, having made more than 10 previous purchases.
 - **Product satisfaction:** The average product rating was 3.75/5, indicating room to investigate product quality and customer satisfaction.
-- **Shipping behavior:** Two-day shipping customers recorded the highest average purchase amount ($60.73), while standard-shipping customers gave the highest average ratings (3.82/5).
+- **Shipping behavior:** Standard-shipping customers gave the highest average ratings (3.82/5).
 
 ## Business Recommendations
 Investigate the subscription gap, reassess subscription benefits, strengthen customer retention, address product satisfaction issues, and evaluate shipping profitability alongside customer experience.
